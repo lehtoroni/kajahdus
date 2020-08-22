@@ -8,5 +8,10 @@ An expanding collection of free-to-use DIY impulse response files for convolvers
   - Recorded using a quality stereo condenser microphone. Unfortunately recorded only in 44.1kHz
   - The impulse sounds were made with party balloons. They were popped using a sharp needle.
 
+## In Finnish 🇫🇮
+Tähän repoon ilmestyy "tee-se-itse"-tasoisia konvolverin kanssa käytettäviä impulssivastetiedostoja. Niistä ensimmäiset äänitettiin Helsingin konservatoriolla hyvin kokeellisessa mielessä.
+
+Tiedostojen laatu vaihtelee, eikä niistä anneta mitään takuuta.
+
 ## License
 You are free to use any of these in any way you want to. The repository is licensed under CC0 Universal.
